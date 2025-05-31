@@ -1,0 +1,19 @@
+# Core dependencies
+numpy
+scipy
+matplotlib
+Pillow
+tqdm
+
+# API and HTTP
+requests
+openai
+
+# Text processing and metrics
+nltk
+rouge-score
+
+# Type checking and development
+mypy
+types-requests
+types-Pillow 
