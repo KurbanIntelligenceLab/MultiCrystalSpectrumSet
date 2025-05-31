@@ -12,7 +12,7 @@ The MultiCrystalSpectrumSet Framework is a comprehensive toolkit for generating,
 
 ## Dataset
 
-The MultiCrystalSpectrumSet dataset is available at: [figshare.com/s/6c930e6e9bb0779eb53b](https://figshare.com/s/6c930e6e9bb0779eb53b)
+The MultiCrystalSpectrumSet is available at: [Framework](https://figshare.com/s/6c930e6e9bb0779eb53b)
 
 The dataset includes:
 - XYZ files containing atomic coordinates
@@ -23,10 +23,6 @@ The dataset includes:
 ## Installation
 
 1. Clone the repository:
-```bash
-git clone https://github.com/yourusername/MultiCrystalSpectrumSet.git
-cd MultiCrystalSpectrumSet
-```
 
 2. Install dependencies:
 ```bash
