@@ -1,10 +1,10 @@
 # MultiCrystalSpectrumSet Framework
 
-This repository contains the implementation for the paper:
+This repository contains the implementation and dataset of:
 
-**Beyond Atomic Geometry Representations in Materials Science: A Human-in-the-Loop Multimodal Framework**
+**Beyond Atomic Geometry Representations in Materials Science: A Human-in-the-Loop Multimodal Framework** by Can Polat, Erchin Serpedin, Mustafa Kurban, and Hasan Kurban.
 
-*Submitted to ICML 2025 Workshop on DataWorld: Unifying Data Curation Frameworks Across Domains*
+*Presented at ICML 2025*
 
 ## Overview
 
@@ -82,17 +82,18 @@ python llm_scripts/task_2.py
 If you use this framework or dataset in your research, please cite:
 
 ```bibtex
-@article{anon,
+@article{polat2025beyond,
   title={Beyond Atomic Geometry Representations in Materials Science: A Human-in-the-Loop Multimodal Framework},
-  author={anon},
-  journal={ICML 2025 Workshop on DataWorld: Unifying Data Curation Frameworks Across Domains},
-  year={}
+  author={Polat, Can and Kurban, Hasan and Serpedin, Erchin and Kurban, Mustafa},
+  journal={arXiv preprint arXiv:2506.00302},
+  year={2025}
 }
 ```
 
 ## License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License - see the LICENSE file for details. 
+Data released under CC-BY 4.0 license.
 
 ## Contributing
 
